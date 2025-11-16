@@ -4,7 +4,7 @@
 
 <p>
 Olá! Eu sou <strong>Marinaldo da Costa Barroso Filho</strong>, mais conhecido como <strong>Júnior Barroso</strong>, estudante de Ciência da Computação na <strong>UNIR</strong> e desenvolvedor apaixonado por tecnologia.<br>
-Atualmente no <strong>3º período</strong>, tenho experiência com <strong>C</strong>, <strong>Python</strong> e <strong>Java</strong>, linguagem que utilizo tanto no backend quanto no mobile.
+Atualmente no <strong>4º período</strong>, tenho experiência com <strong>C</strong>, <strong>Python</strong> e <strong>Java</strong>, linguagem que utilizo tanto no backend quanto no mobile.
 </p>
 
 <p>
