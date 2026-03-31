@@ -1,75 +1,152 @@
-<h1 align="center">👋 Sobre mim | About me</h1>
+<h1 align="center">👋 Olá! Eu sou Marinaldo Barroso</h1>
 
-<h2>🇧🇷 Português</h2>
-
-<p>
-Olá! Eu sou <strong>Marinaldo da Costa Barroso Filho</strong>, mais conhecido como <strong>Júnior Barroso</strong>, estudante de Ciência da Computação na <strong>UNIR</strong> e desenvolvedor apaixonado por tecnologia.<br>
-Atualmente no <strong>4º período</strong>, tenho experiência com <strong>C</strong>, <strong>Python</strong> e <strong>Java</strong>, linguagem que utilizo tanto no backend quanto no mobile.
+<p align="center">
+  <b>Desenvolvedor Full-Stack Java</b><br>
+  Estudante de Ciência da Computação na UNIR
 </p>
 
-<p>
-Sou <strong>Desenvolvedor Full-Stack Java</strong>, com foco em <strong>Back-End</strong> utilizando <strong>Spring Boot</strong> para criar APIs robustas e escaláveis. Também estou evoluindo como <strong>Desenvolvedor Mobile</strong> no ecossistema Android/Java.
+<p align="center">
+  <a href="mailto:barroso.junior@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-barroso.junior@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/zxlawdx">
+    <img src="https://img.shields.io/badge/GitHub-zxlawdx-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
-<h3>🚀 Áreas de Interesse</h3>
-<ul>
-  <li><strong>Java & Spring Boot</strong> – APIs REST, backend e arquitetura.</li>
-  <li><strong>Estruturas de Dados e Algoritmos</strong> – base teórica e prática da computação.</li>
-  <li><strong>Inteligência Artificial</strong> – aplicações e conceitos fundamentais.</li>
-  <li><strong>Desenvolvimento Mobile</strong> – Android nativo.</li>
-  <li><strong>C e Python</strong> – lógica, algoritmos e automações.</li>
-</ul>
+---
 
-<h3>🌱 Atualmente aprendendo</h3>
-<ul>
-  <li>Desenvolvimento avançado com <strong>Spring Boot</strong>.</li>
-  <li>Arquitetura Back-End (REST, camadas, JWT, boas práticas).</li>
-  <li>Desenvolvimento Mobile Android.</li>
-  <li>Estruturas de dados aplicadas à <strong>IA</strong>.</li>
-</ul>
+# 👨‍💻 Sobre mim
 
-<h3>📫 Entre em contato</h3>
-<ul>
-  <li><strong>E-mail:</strong> barroso.junior@outlook.com</li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/zxlawdx">zxlawdx</a></li>
-</ul>
+Olá! Meu nome é **Marinaldo da Costa Barroso Filho**, mais conhecido como **Júnior Barroso**.
 
-<hr>
+Sou estudante de **Ciência da Computação na UNIR** e desenvolvedor apaixonado por tecnologia e arquitetura de software.
 
-<h2>🇺🇸 English</h2>
+Atualmente atuo principalmente como **Desenvolvedor Full-Stack Java**, com foco em **Back-End utilizando Spring Boot**, construindo **APIs REST escaláveis e bem estruturadas**.
 
-<p>
-Hello! I'm <strong>Marinaldo da Costa Barroso Filho</strong>, also known as <strong>Júnior Barroso</strong>, a Computer Science student at <strong>UNIR</strong> and a passionate software developer.<br>
-I’m currently in my <strong>3rd semester</strong>, experienced in <strong>C</strong>, <strong>Python</strong>, and especially <strong>Java</strong>.
+Também trabalho com **Python para automações e microserviços**, além de **Angular para interfaces web modernas**.
+
+🚀 Atualmente estou desenvolvendo projetos envolvendo:
+
+- APIs REST com **Spring Boot**
+- **Microserviços Python (FastAPI)**
+- **Extração de dados de PDFs com Regex e heurísticas**
+- **Aplicações distribuídas com Java RMI**
+- **Aplicações Full-Stack com Angular + Java**
+
+---
+
+# 🚀 Tecnologias & Stack
+
+## Backend
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Spring](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+
+## Frontend
+
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+
+## Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+## DevOps & Ferramentas
+
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+
+---
+
+# 📚 Atualmente aprendendo
+
+- Arquitetura **Back-End escalável**
+- **Spring Security / JWT**
+- **Microserviços**
+- **Arquitetura distribuída**
+- **Inteligência Artificial aplicada**
+
+---
+
+# 🔭 Projetos em destaque
+
+### ⚡ SysEnergy
+
+Sistema para **processamento de faturas de energia elétrica**.
+
+Tecnologias:
+
+- Python
+- FastAPI
+- Regex parsing
+- CSV export
+- Microserviços
+
+Funcionalidades:
+
+- Extração automática de dados de PDFs
+- Identificação de consumo e energia injetada
+- Processamento de tributos (ICMS, PIS, COFINS)
+
+---
+
+### 💬 ChatRMI
+
+Aplicação de **chat distribuído usando Java RMI**.
+
+Tecnologias:
+
+- Java
+- RMI
+- Hibernate / JPA
+- PostgreSQL
+
+Funcionalidades:
+
+- Login de usuários
+- Envio de mensagens remotas
+- Arquitetura distribuída
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=zxlawdx&show_icons=true&theme=tokyonight"
+  />
 </p>
 
-<p>
-I work as a <strong>Full-Stack Java Developer</strong> focused on <strong>Back-End development</strong> using <strong>Spring Boot</strong> to build scalable and clean RESTful services. I'm also growing as a <strong>Mobile Developer</strong> in the Java/Android ecosystem.
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxlawdx&layout=compact&theme=tokyonight"
+  />
 </p>
 
-<h3>🚀 Areas of Interest</h3>
-<ul>
-  <li><strong>Java & Spring Boot</strong> – backend, APIs, security, architecture.</li>
-  <li><strong>Data Structures & Algorithms</strong> – core knowledge for optimization.</li>
-  <li><strong>Artificial Intelligence</strong> – theory and real applications.</li>
-  <li><strong>Mobile Development</strong> – Android apps.</li>
-  <li><strong>C & Python</strong> – logic, performance and scripts.</li>
-</ul>
+---
 
-<h3>🌱 Currently learning</h3>
-<ul>
-  <li>Advanced <strong>Spring Boot</strong> development.</li>
-  <li>Backend architectures (REST, layered design, JWT).</li>
-  <li>Mobile Android development.</li>
-  <li>Data structures applied to <strong>AI</strong>.</li>
-</ul>
+# 📬 Contato
 
-<h3>📫 Contact me</h3>
-<ul>
-  <li><strong>E-mail:</strong> barroso.junior@outlook.com</li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/zxlawdx">zxlawdx</a></li>
-</ul>
+💌 Se quiser conversar sobre tecnologia ou projetos:
 
-<hr>
+- Email: **barroso.junior@outlook.com**
+- GitHub: **github.com/zxlawdx**
 
-<p align="center"><em>"Computer science is not just about computers — it's about how we think and solve problems."</em></p>
+---
+
+<p align="center">
+  <i>
+  "Computer science is not just about computers — it's about how we think and solve problems."
+  </i>
+</p>
