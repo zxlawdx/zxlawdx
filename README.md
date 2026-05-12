@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100=3ba55d&height=200&section=header&text=Marinaldo%20Barroso&fontSize=60&fontColor=3ba55d&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3BA55D&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Full-Stack+Java+Developer;⚙️+Spring+Boot+%7C+Angular+%7C+FastAPI;🐳+Docker+%7C+Microserviços+%7C+gRPC;☁️+Kafka+%7C+Kubernetes+%7C+AWS+(em+progresso);🎓+Ciência+da+Computação+—+UNIR" alt="Typing animation" /></a>
+<a href="https://git.io/typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)" alt="Typing animation" /></a>
  
 
 <br/>
@@ -227,33 +227,7 @@ public class Dev extends MarinaldoBarroso {
 
 </div>
 
----
 
-## 💡 WakaTime (Tempo de Código)
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!-- Adicione a GitHub Action do WakaTime para preencher automaticamente -->
-<!--END_SECTION:waka-->
-
-> ⚠️ _Configure o [WakaTime](https://wakatime.com/) e a [GitHub Action](https://github.com/athul/waka-readme) para exibir suas stats de codificação aqui._
-
-</div>
-
----
-
-## 🎵 Spotify — Ouvindo agora
-
-<div align="center">
-
-[![Spotify](https://novatorem-zxlawdx.vercel.app/api/spotify)](https://open.spotify.com)
-
-> ⚠️ _Deploy o [novatorem](https://github.com/novatorem/novatorem) na Vercel com seu `SPOTIFY_CLIENT_ID` e `SPOTIFY_CLIENT_SECRET` para ativar._
-
-</div>
-
----
 
 ## 📬 Contato
 
@@ -269,10 +243,6 @@ public class Dev extends MarinaldoBarroso {
 
 <a href="https://linkedin.com/in/marinaldo-barroso">
   <img src="https://img.shields.io/badge/LinkedIn-Marinaldo%20Barroso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://wakatime.com/@zxlawdx">
-  <img src="https://img.shields.io/badge/WakaTime-zxlawdx-000000?style=for-the-badge&logo=wakatime&logoColor=white" />
 </a>
 
 </div>
