@@ -3,9 +3,6 @@
 <!-- Animated Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100=3ba55d&height=200&section=header&text=Marinaldo%20Barroso&fontSize=60&fontColor=3ba55d&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)" alt="Typing animation" /></a>
- 
 
 <br/>
 
